@@ -1,0 +1,7 @@
+D:\SEMANA 3 PYTHON\declaracion y manipualcionde variables\bin\Debug\declaracion y manipualcionde variables.exe.config
+D:\SEMANA 3 PYTHON\declaracion y manipualcionde variables\bin\Debug\declaracion y manipualcionde variables.exe
+D:\SEMANA 3 PYTHON\declaracion y manipualcionde variables\bin\Debug\declaracion y manipualcionde variables.pdb
+D:\SEMANA 3 PYTHON\declaracion y manipualcionde variables\obj\Debug\declaracion y manipualcionde variables.csproj.AssemblyReference.cache
+D:\SEMANA 3 PYTHON\declaracion y manipualcionde variables\obj\Debug\declaracion y manipualcionde variables.csproj.CoreCompileInputs.cache
+D:\SEMANA 3 PYTHON\declaracion y manipualcionde variables\obj\Debug\declaracion y manipualcionde variables.exe
+D:\SEMANA 3 PYTHON\declaracion y manipualcionde variables\obj\Debug\declaracion y manipualcionde variables.pdb
